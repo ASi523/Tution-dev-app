@@ -11,7 +11,7 @@ const MainBox = () => {
             <div className="box-row">
                     <h3>Home Tutors By Category</h3>
                 <ul>
-                        <li>Preschool/School</li>
+                        <li>Preschool/School=change</li>
                         <li>School</li>
                         <li>Arts</li>
                         <li>Science</li>
