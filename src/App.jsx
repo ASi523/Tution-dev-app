@@ -1,6 +1,6 @@
 import React from 'react'
 import './App.css'
-import Carousel from './components/Carousel.jsx'
+import Carousel from './Carousel.jsx'
 // import Navbar from './components/Navbar.jsx'
 import Nav from './components/Nav.jsx'
 import Aboutus from './components/Aboutus.jsx'

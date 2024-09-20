@@ -1,13 +1,18 @@
 import React, { useState, useEffect, Fragment } from 'react';
 // import './Carousel.css'; // Import your CSS file
+import img1 from '../src/img/img1.jpg';
+import img2 from '../src/img/img2.jpg';
+import img3 from '../src/img/img3.jpg';
+import img4 from '../src/img/img4.jpg';
+
 
 const Carousel = () => {
     
     const images = [
-        '/img/img1.jpg',
-       '/img/img2.jpg',
-      '/img/img3.jpg',
-    '/img/img4.jpg',
+        img1,
+       img2,
+      img3,
+    img4,
     
     ];
 
